@@ -1,2 +1,2 @@
 # Weather-App-Final-Buggy-
-1st Sem Weather App code with some bugs
+Weather App that uses OpenWeatherMap API, to save data and also displays the past data if saved.
